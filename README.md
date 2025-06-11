@@ -4,7 +4,7 @@ This is a Hotel Management System web application deployed using containerized m
 
 ---
 
-## ✅ Project Features and Accomplishments
+## ✅ Project Features
 
 ### 📁 1. Public Git Repository 
 The entire project is hosted on a public Git repository for version control and collaboration.
